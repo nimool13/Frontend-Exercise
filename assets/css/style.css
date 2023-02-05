@@ -9,12 +9,27 @@ body {
   }
   
   footer {
-    
+    height: 10rem;
     position: fixed;
     bottom: 0;
     width: 100%;
     font-size: 18px;
   } 
+
+  .parallax-container {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+  }
+  .parallax{
+    zoom: 29%;
+    
+  }
+
+  .w_100 {
+    width: 100%;
+    
+  }
+
   
- 
  
